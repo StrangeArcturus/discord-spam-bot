@@ -1,0 +1,12 @@
+aiogram
+discord
+markovify
+multitasking
+pyTelegramBotAPI
+python-dotenv
+requests
+psutil
+PyQt5
+PyQt5-Qt5
+PyQt5-sip
+aiosignal
